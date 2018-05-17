@@ -2,7 +2,7 @@
 
 ## Files
 
-### tableScript.sql
+### script.sql
 
     This script creates the tables for the SQL database.
 
